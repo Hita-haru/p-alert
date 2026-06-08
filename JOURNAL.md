@@ -12,3 +12,11 @@ However, if I try to print it as is, I’ll probably have to use a lot of suppor
 
 ![Enclosure 3D data](./screenshots/3d-1.png)  
 **Total time spent: 3 hours**
+
+# 6/8: Created schematics.
+I drew a circuit diagram today!
+I thought I wouldn't be able to get much done since it's exam season, but I managed to work on it for two whole hours.
+I'm worried I won't be able to wake up tomorrow...
+
+![Schematic screenshot](./screenshots/schematic1.png)
+**Total time spent: 2 hours**
