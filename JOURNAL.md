@@ -20,3 +20,11 @@ I'm worried I won't be able to wake up tomorrow...
 
 ![Schematic screenshot](./screenshots/schematic1.png)
 **Total time spent: 2 hours**
+
+# 6/9: Added audio DAC and video output and GNSS module to schematic.
+Today, I added a few things to the circuit diagram.
+I made it possible to select video sources, so you can choose sources other than this device’s output.
+I think this will allow you to overlay videos recorded with a camera or similar device, so I figured it would be a good idea.
+
+![Schematic screenshot](./screenshots/schematic2.png)
+**Total time spent: 3 hours**
