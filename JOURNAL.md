@@ -28,3 +28,10 @@ I think this will allow you to overlay videos recorded with a camera or similar 
 
 ![Schematic screenshot](./screenshots/schematic2.png)
 **Total time spent: 3 hours**
+
+# 6/10: Added LCD and TF card slot and so on.
+Today, I added a micro SD card slot and an LCD to the circuit diagram.
+For one reason or another, I have to keep comparing the pin layout with the product page, which is quite a hassle.
+
+![Schematic screenshot](./screenshots/schematic3.png)
+**Total time spent: 2 hours**
