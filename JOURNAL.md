@@ -35,3 +35,9 @@ For one reason or another, I have to keep comparing the pin layout with the prod
 
 ![Schematic screenshot](./screenshots/schematic3.png)
 **Total time spent: 2 hours**
+
+# 6/11: Added rotary encoder and so other components.
+Today I added a rotary encoder and a few other things.
+I’m in a bit of a bind because I haven’t been able to find any time to study for my midterms.
+![Schematic screenshot](./screenshots/schematic4.png)
+**Total time spent: 1.5 hours**
