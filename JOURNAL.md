@@ -50,3 +50,10 @@ I haven't made any progress studying for my midterms—I just can't do it anymor
 
 ![Schematic screenshot](./screenshots/schematic5.png)  
 **Total time spent: 3 hours**
+
+# 6/29: Created lid and added LED lamps, Push button.
+Today I added a lid, an LED light, and some push buttons.
+It all seemed so overwhelming that I didn't know where to start, so it ended up taking me quite a while.
+
+![3D Screenshot](./screenshots/3d-2.png)
+**Total time spent: 1 hours 36 minutes**
