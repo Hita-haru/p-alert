@@ -57,3 +57,12 @@ It all seemed so overwhelming that I didn't know where to start, so it ended up 
 
 ![3D Screenshot](./screenshots/3d-2.png)
 **Total time spent: 1 hours 36 minutes**
+
+# 6/30: Created front control panel
+Today I worked on the front control panel.
+I spent most of the time searching for products and measurements on AliExpress (lol).
+Next, I want to work on the front display panel.
+I’m also worried that the text might get smudged when I print it. Oh well, I’ll cross that bridge when I get there.
+
+![3D Screenshot](./screenshots/3d-3.png)
+**Total time spent: 0 hours 52 minutes**
