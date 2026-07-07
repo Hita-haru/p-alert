@@ -74,3 +74,12 @@ It’s too big to print, whether I use JLC3DP or the school’s 3D printer.
 
 ![3D Screenshot](./screenshots/3d-4.png)
 **Total time spent: 1 hours 31 minutes**
+
+# 7/7: Splitted the body I created
+Today, I split up the body I had created.
+I split the body so that I could export the 3D data component by component.
+I was able to reduce the JLC3DP quote by about 30 USD.
+However, it’s still expensive, so I wish there were some other way to do this.
+
+![JLC3DP Estimate](./screenshots/jlc3dp.png)
+**Total time spent: 1 hours 13 minutes**
