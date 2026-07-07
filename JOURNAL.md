@@ -66,3 +66,11 @@ I’m also worried that the text might get smudged when I print it. Oh well, I�
 
 ![3D Screenshot](./screenshots/3d-3.png)
 **Total time spent: 0 hours 52 minutes**
+
+# 7/6: Created a preliminary 3D model
+This time, I’ve created a preliminary 3D model.
+However, since it’s quite large, I’d like to split it up.
+It’s too big to print, whether I use JLC3DP or the school’s 3D printer.
+
+![3D Screenshot](./screenshots/3d-4.png)
+**Total time spent: 1 hours 31 minutes**
